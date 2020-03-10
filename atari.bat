@@ -1,0 +1,1 @@
+python atari.py --game SpaceInvaders-v0 --display true
